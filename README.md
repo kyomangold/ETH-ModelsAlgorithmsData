@@ -7,7 +7,7 @@ This is the repository for the code files of the **Models, Algorithms and Data**
 - Nonlinear Systems II: Set of Equations
 - Interpolation and Extrapolation: Lagrange Interpolation, Cubic Splines, B-splines, NURBS, Multivariate Interpolation
 - Radial Basis Functions
-- Learning from Data: Neural Networks
+- Neural Networks: Machine Learning 
 - Numerical Integration: Rectangle, Trapezoidal, Simpson’s Rule, Richardson and Romberg Integration, Adaptive Quadrature, Monte Carlo
 - Bayesian Inference
 
