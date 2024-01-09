@@ -14,4 +14,4 @@ This is the repository for the code files of the **Models, Algorithms and Data**
 These topics provide a comprehensive overview of computational techniques and their applications in data analysis, modeling, and machine learning.
     
 The repository contains a folder with the code to the problem sets, where all of the theoretical knowledge of the lecture had to be applied.
-# ETH-ModelsAlgorithmsData
+
